@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Unfold Story</string>
+    <string name="dashboard_story">Unfold Story</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="add_story">Create Story</string>
+    <string name="detail_story">Detail of Story</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="have_account">Don\'t have an account?</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="gallery">Gallery</string>
+    <string name="save">Save</string>
+    <string name="created_date">Date Created</string>
+    <string name="description">Description</string>
+    <string name="copyright">© 2023</string>
+    <string name="label_change_language_settings">Change Language</string>
+    <string name="label_invalid_email">Invalid Email Format.</string>
+    <string name="label_validation_password">The password cannot be less than 8 characters.</string>
+    <string name="validate_register_success">User successfully created.</string>
+    <string name="validate_register_failed">Email already exists!</string>
+    <string name="login_user_not_found">User not found!</string>
+    <string name="validate_login_success">Login successful.</string>
+    <string name="input_name">Fill in the name.</string>
+    <string name="input_email">Fill in your email.</string>
+    <string name="input_password">fill in the password.</string>
+    <string name="description_mandatory">Description must be filled in.</string>
+    <string name="image_mandatory">Please insert the image file first.</string>
+    <string name="permission">Failed, didn\'t get permission!</string>
+    <string name="choose_picture">Choose Picture</string>
+    <string name="failed_take_picture">Failed to take a picture!</string>
+    <string name="failed_bring_up_camera">Failed to bring up the camera!</string>
+    <string name="info">Information</string>
+    <string name="regitration">Registration</string>
+    <string name="login_complement">Picture Complement</string>
+    <string name="signup_complement">Picture Complement</string>
+    <string name="location">Location Coordinates</string>
+    <string name="myplace">My Place</string>
+    <string name="list_location">List Location</string>
+    <string name="set_location">Set Location</string>
+    <string name="btn_capture">Tombol Jepret</string>
+    <string name="btn_switch_camera">Button Switch Camera</string>
+    <string name="camera">Camera</string>
+    <string name="reconnect">Reconnect</string>
+</resources>

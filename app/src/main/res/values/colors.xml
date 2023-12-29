@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Gradasi Warna Monochrome -->
+    <color name="black">#FF000000</color>
+    <color name="gray_dark">#75757590</color>
+    <color name="gray">#919191</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <!-- Gradasi Warna Merah Maroon -->
+    <color name="maroon_1">#e16e68</color>
+    <color name="maroon_2">#ce5853</color>
+    <color name="maroon_3">#ba423e</color>
+    <color name="maroon_4">#a72c2a</color>
+    <color name="maroon_5">#931615</color>
+    <color name="maroon_6">#800000</color>
+    <color name="maroon_7">#500000</color>
+
+    <!-- Gradasi Warna Kuning -->
+    <color name="yellow_1">#ead262</color>
+    <color name="yellow_2">#d5a84e</color>
+    <color name="yellow_3">#c07e3b</color>
+
+
+
+
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="blue_200">#bfdbfe</color>
+    <color name="blue_500">#3b82f6</color>
+    <color name="blue_600">#0284c7</color>
+    <color name="blue_700">#1d4ed8</color>
+
+</resources>
